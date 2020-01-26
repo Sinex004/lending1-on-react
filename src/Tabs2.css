@@ -1,0 +1,25 @@
+.tabs2{
+    padding-top:5%;
+}
+.buttons2{
+    height:50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.buttons2 button{
+    border-radius:30px;
+    margin-bottom:3%;
+    background-color: #fff;
+    color:#929292;
+    border:none;
+    padding:2% 5%;
+}
+.text2{
+    height:50vh;
+    background-color: white;
+    color:black;
+    padding:2% 5%;
+}

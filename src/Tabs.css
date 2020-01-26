@@ -1,0 +1,39 @@
+.text{
+    border:1px solid #000;
+    height:83vh;
+    padding:2% 3%;
+}
+.buttons button{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border:none;
+    padding:2% 3%;
+    border:1px solid rgba(0,0,0,0.5);
+}
+.buttons button:hover{
+    cursor:pointer!important;
+}
+button:focus{
+    outline:0;
+}
+.card{
+    -webkit-transition: all, 1s, ease-in;
+    -moz-transition: all, 1s, ease-in;
+    -o-transition: all, 1s, ease-in;
+     transition: all, 1s, ease-in;
+     border-radius:20px;
+}
+.c{
+    -webkit-transition: all, 1s, ease-in;
+    -moz-transition: all, 1s, ease-in;
+    -o-transition: all, 1s, ease-in;
+     transition: all, 1s, ease-in;
+}
+.arrow-area{
+    color:white;
+    background: linear-gradient(to right, #864df5, #ac64ff);
+    width:100%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding:3% 5%;
+}
